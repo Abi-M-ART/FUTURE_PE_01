@@ -1,0 +1,11 @@
+Act as a professional website copywriter.
+Create complete website copy for a women beauty salon in Tamil Nadu.
+Include:
+1. Homepage headline
+2. Subheadline
+3. About section
+4. Services section
+5. CTA section
+Tone: Friendly, modern, trust-building
+Target audience: Women aged 18–45
+Keep language simple and persuasive.
